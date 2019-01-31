@@ -1,0 +1,31 @@
+{
+  "name": "fe-shared-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/fe-shared-components.js",
+  "scripts": {
+    "build": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/os-bd/fe-shared-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/os-bd/fe-shared-components/issues"
+  },
+  "homepage": "https://github.com/os-bd/fe-shared-components#readme",
+  "dependencies": {
+    "jest": "^24.0.0",
+    "typescript": "^3.2.4"
+  },
+  "devDependencies": {
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-latest": "^6.24.1",
+    "rollup-plugin-node-resolve": "^4.0.0",
+    "rollup-plugin-typescript": "^1.0.0",
+    "tslib": "^1.9.3"
+  }
+}
